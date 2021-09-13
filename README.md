@@ -1,4 +1,4 @@
-# Getting Started with Node and Express CRUD API
+# Getting Started with Node and Express CRUD REST API
 
 ## Available Script
 
