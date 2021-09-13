@@ -1,4 +1,6 @@
-## Available Scripts
+# Getting Started with Node and Express CRUD API
+
+## Available Script
 
 In the project directory, you can run:
 
